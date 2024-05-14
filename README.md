@@ -67,9 +67,6 @@ To contribute to govoice, follow these steps:
 ## License 📄
 This project uses the ![MIT license](https://opensource.org/license/mit/).
 
-## Thanks you 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 =======
 # GoVoice-Backend
  A RESTful API built with Spring Boot, MySQL and JPA, designed to power the "GoVoice" platform. It provides endpoints for managing various aspects of the GoVoice application.
