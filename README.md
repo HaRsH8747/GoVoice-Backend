@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 <a href="https://ibb.co/gP6psfn"><img src="https://i.ibb.co/gP6psfn/e8507ad3-b1e6-4800-9387-add46d29f17d.jpg" alt="e8507ad3-b1e6-4800-9387-add46d29f17d" border="0"></a>
 
 ## backend folder for govoice
