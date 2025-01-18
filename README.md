@@ -64,10 +64,9 @@ To contribute to govoice, follow these steps:
 
 5. Create the pull request. Alternatively, see the GitHub documentation on ![creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-## License 📄
+## License
 This project uses the ![MIT license](https://opensource.org/license/mit/).
 
-=======
+
 # GoVoice-Backend
  A RESTful API built with Spring Boot, MySQL and JPA, designed to power the "GoVoice" platform. It provides endpoints for managing various aspects of the GoVoice application.
->>>>>>> 230b92651f976420c76e5a02f72b8260d51d56a5
